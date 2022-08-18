@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Montserrat&display=swap");
+
 * {
   box-sizing: border-box;
   margin: 0%;
@@ -15,6 +17,7 @@ body {
   /* background-repeat: no-repeat; */
   background-size: cover;
   /* background-color: #1b191b; */
+  font-family: "Montserrat", sans-serif;
 }
 nav {
   display: flex;
